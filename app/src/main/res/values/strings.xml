@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="image_attribution">Illustration by Prayag Aghara on Unsplash</string>
+    <string name="intro_text">Hi, I am Muna. I am excited to join this class. I love listening music, trying new foods, and learning.</string>
+    <string name="pic_alt_text">A Woman holding a record and wearing headphones enjoying music</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
